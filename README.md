@@ -28,6 +28,6 @@ Acknowledgements:
 
 This program was developed by [jpark9013](https://github.com/jpark9013).
 
-This program was tested by [ej123456789](https://github.com/ej123456789).
+This program was tested by [EmilJiang](https://github.com/EmilJiang).
 
 This wiki is maintained by [ssharker21](https://github.com/ssharker21).
